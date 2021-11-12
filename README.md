@@ -28,6 +28,16 @@
 ## Vue 系列
 
 ## HTML 应知应会系列
+1. [HTML系列之DOCTYPE的作用](https://github.com/yuanyuanbyte/Blog/issues/1)
+2. [HTML系列之HTML、XHTML和XML之间的区别](https://github.com/yuanyuanbyte/Blog/issues/2)
+3. [HTML系列之data-属性](https://github.com/yuanyuanbyte/Blog/issues/3)
+4. [HTML系列之语义化的理解](https://github.com/yuanyuanbyte/Blog/issues/4)
+5. [HTML系列之什么是HTML5？HTML5和HTML的区别](https://github.com/yuanyuanbyte/Blog/issues/5)
+6. [HTML系列之常用的meta标签](https://github.com/yuanyuanbyte/Blog/issues/6)
+7. [HTML系列之src和href的区别](https://github.com/yuanyuanbyte/Blog/issues/7)
+8. [HTML系列之img的srcset的作用 (追问)](https://github.com/yuanyuanbyte/Blog/issues/8)
+9. [HTML系列之script标签中defer和async的区别](https://github.com/yuanyuanbyte/Blog/issues/9)
+10. [HTML系列之前端存储](https://github.com/yuanyuanbyte/Blog/issues/10)
 
 ## CSS 应知应会系列
 
