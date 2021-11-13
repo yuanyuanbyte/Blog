@@ -25,6 +25,6 @@ assignees: yuanyuanbyte
 - 数据结构与算法系列
 
 ## 交流
-各系列文章汇总：https://github.com/yuanyuanbyte/Blog，内有优质前端资料，觉得不错点个star。
+各系列文章汇总：[https://github.com/yuanyuanbyte/Blog](https://github.com/yuanyuanbyte/Blog)，内有优质前端资料，觉得不错点个star。
 
 我是圆圆，专注于打造一系列能够帮助前端工程师提高的优质文章，希望我的文章能对你的学习成长有所帮助，一起加油！
