@@ -12,11 +12,11 @@
 
 ## JavaScript 手写系列
 
-## 网络系列
-
 ## JavaScript 深入系列
 
 ## JavaScript 基础系列
+
+## 网络系列
 
 ## 浏览器系列
 - 正在努力写作中
