@@ -11,6 +11,10 @@ assignees: yuanyuanbyte
 
 如果觉得本系列不错，欢迎点赞、评论、转发，您的支持就是我坚持的最大动力。
 
+## 参考
+- [Webpack5从入门到精通](https://www.bilibili.com/video/BV1e7411j7T5?p=3)
+- [webpack 中文文档 (docschina.org)](https://webpack.docschina.org/concepts/)
+
 ## 博文系列目录
 - JavaScript 手写系列
 - JavaScript 深入系列
