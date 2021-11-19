@@ -17,6 +17,8 @@ assignees: yuanyuanbyte
 - [Webpack5从入门到精通](https://www.bilibili.com/video/BV1e7411j7T5?p=3)
 - [webpack 中文文档 (docschina.org)](https://webpack.docschina.org/concepts/)
 
+<a id="end">[查看原文]()</a>
+
 ## 博文系列目录
 - JavaScript 手写系列
 - JavaScript 深入系列
@@ -34,5 +36,3 @@ assignees: yuanyuanbyte
 各系列文章汇总：[https://github.com/yuanyuanbyte/Blog](https://github.com/yuanyuanbyte/Blog)，内有优质前端资料，觉得不错点个star。
 
 我是圆圆，专注于打造一系列能够帮助前端工程师提高的优质文章，希望我的文章能对你的学习成长有所帮助，一起加油！
-
-<a id="end">[查看原文]()</a>
