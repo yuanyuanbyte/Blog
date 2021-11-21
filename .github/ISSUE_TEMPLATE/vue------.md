@@ -17,6 +17,8 @@ assignees: ''
 
 <a id="end">[查看原文]()</a>
 
+>该系列文章csdn平台还未发出，暂时没有原文，如有疑问可以私聊我，抱歉了~
+
 ## 博文系列目录
 - JavaScript 手写系列
 - JavaScript 深入系列
