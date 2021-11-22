@@ -1,5 +1,5 @@
 ---
-name: JavaScript 基础系列
+name: JavaScript 基础系列发文模板
 about: 作者专用
 title: JavaScript 基础系列之
 labels: ''
