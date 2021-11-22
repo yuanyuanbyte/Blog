@@ -15,6 +15,7 @@
 - [CSDN博客(全集)](https://yuanyuan.blog.csdn.net/) 
 - [掘金博客(精华)](https://juejin.cn/user/1468603266772264/posts)
 
+## JavaScript 深入系列
 
 ## JavaScript 基础系列
 1. [JavaScript 基础系列之 JS 的数据类型有哪些](https://github.com/yuanyuanbyte/Blog/issues/67)
@@ -40,12 +41,6 @@
 21. [JavaScript 基础系列之分析 setTimeout 倒计时为什么会出现误差](https://github.com/yuanyuanbyte/Blog/issues/87)
 22. [JavaScript 基础系列之认识 bable](https://github.com/yuanyuanbyte/Blog/issues/88)
 
-## JavaScript 深入系列
-
-## JavaScript 手写系列
-
-## 网络系列
-
 ## Webpack 系列
 1. [Webpack系列之简介与五个核心概念](https://github.com/yuanyuanbyte/Blog/issues/34)
 2. [Webpack系列之开发环境配置(打包样式、html、图片和其他资源，配置devServer)](https://github.com/yuanyuanbyte/Blog/issues/35)
@@ -60,8 +55,9 @@
 11. [Webpack性能优化系列之 PWA (使用渐进式网络应用程序为我们的项目添加离线体验)](https://github.com/yuanyuanbyte/Blog/issues/44)
 12. [Webpack性能优化系列之多进程打包 (极大的提升项目打包构建速度)](https://github.com/yuanyuanbyte/Blog/issues/45)
 
-## Axios 和 Fetch 系列
+## 网络系列
 
+## Axios 和 Fetch 系列
 
 ## 浏览器系列
 - 正在努力写作中
