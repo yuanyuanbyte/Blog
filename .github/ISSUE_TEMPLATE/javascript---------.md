@@ -1,7 +1,7 @@
 ---
-name: JavaScript 深入系列发文模板
+name: JavaScript 基础系列发文模板
 about: 作者专用
-title: JavaScript 深入系列之
+title: JavaScript 基础系列之
 labels: ''
 assignees: ''
 
