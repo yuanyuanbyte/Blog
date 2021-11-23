@@ -1,13 +1,13 @@
 ---
-name: JavaScript 专题系列发文模板
+name: JavaScript 深入系列发文模板
 about: 作者专用
-title: JavaScript 专题系列之
+title: JavaScript 深入系列之
 labels: ''
 assignees: ''
 
 ---
 
-本系列的主题是JavaScript专题，每期重点攻克一个技术重难点，如果你还不了解各系列内容，文末点击查看全部文章。
+本系列的主题是JavaScript深入系列，每期重点攻克一个技术重难点，如果你还不了解各系列内容，文末点击查看全部文章。
 
 如果觉得本系列不错，欢迎点赞、评论、转发，您的支持就是我坚持的最大动力。
 
