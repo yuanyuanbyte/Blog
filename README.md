@@ -128,8 +128,6 @@
 23. [CSS系列之页面导入样式时，使用link和@import的区别](https://github.com/yuanyuanbyte/Blog/issues/13)
 
 ## 算法入门系列
-
-## 数据结构与算法系列
 - 正在努力中
 
 ## 关于订阅
