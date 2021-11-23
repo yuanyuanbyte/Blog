@@ -128,7 +128,10 @@
 23. [CSS系列之页面导入样式时，使用link和@import的区别](https://github.com/yuanyuanbyte/Blog/issues/13)
 
 ## 算法入门系列
-- 正在努力中
+1. [算法入门系列之 2sum](https://github.com/yuanyuanbyte/Blog/issues/95)
+2. [算法入门系列之不借助临时变量进行两个数的交换](https://github.com/yuanyuanbyte/Blog/issues/97)
+3. [算法入门系列之取数组的最大值（ES5、ES6）, 详解Math.max() 和 reduce() API](https://github.com/yuanyuanbyte/Blog/issues/96)
+4. 该系列正在努力中...
 
 ## 关于订阅
 如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。
