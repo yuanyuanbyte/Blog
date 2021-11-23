@@ -127,8 +127,10 @@
 22. [CSS系列之png、jpg、gif 和 webp 图片格式的理解](https://github.com/yuanyuanbyte/Blog/issues/32)
 23. [CSS系列之页面导入样式时，使用link和@import的区别](https://github.com/yuanyuanbyte/Blog/issues/13)
 
+## 算法入门系列
+
 ## 数据结构与算法系列
-- 正在努力写作中
+- 正在努力中
 
 ## 关于订阅
 如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。
