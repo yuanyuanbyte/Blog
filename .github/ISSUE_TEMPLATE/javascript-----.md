@@ -1,5 +1,5 @@
 ---
-name: JavaScript 专题系列
+name: JavaScript 专题系列发文模板
 about: 作者专用
 title: JavaScript 专题系列之
 labels: ''
