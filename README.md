@@ -17,6 +17,8 @@
 
 ## JavaScript 深入系列
 
+## JavaScript 专题系列
+
 ## JavaScript 基础系列
 1. [JavaScript 基础系列之 JS 的数据类型有哪些](https://github.com/yuanyuanbyte/Blog/issues/67)
 2. [JavaScript 基础系列之 typeof 能判断哪些类型](https://github.com/yuanyuanbyte/Blog/issues/68)
