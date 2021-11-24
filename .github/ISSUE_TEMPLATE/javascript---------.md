@@ -28,7 +28,7 @@ assignees: ''
 - Vue 系列
 - HTML 应知应会系列
 - CSS 应知应会系列
-- 数据结构与算法系列
+- 算法入门系列
 
 ## 交流
 各系列文章汇总：[https://github.com/yuanyuanbyte/Blog](https://github.com/yuanyuanbyte/Blog)，内有优质前端资料，觉得不错点个star。
