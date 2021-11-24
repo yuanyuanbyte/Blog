@@ -16,6 +16,21 @@
 - [掘金博客(精华)](https://juejin.cn/user/1468603266772264/posts)
 
 ## JavaScript 深入系列
+1. [JavaScript 深入系列之从原型到原型链](https://github.com/yuanyuanbyte/Blog/issues/89)
+2. [JavaScript 深入系列之执行上下文栈和作用域链](https://github.com/yuanyuanbyte/Blog/issues/90)
+3. [JavaScript 深入系列之闭包的作用、使用场景以及性能问题](https://github.com/yuanyuanbyte/Blog/issues/91)
+4. [JavaScript 深入系列之宏任务、微任务和事件循环 Event Loop](https://github.com/yuanyuanbyte/Blog/issues/92)
+5. [JavaScript 深入系列之 DOM 事件响应机制](https://github.com/yuanyuanbyte/Blog/issues/93)
+6. [JavaScript 深入系列之数据类型检测](https://github.com/yuanyuanbyte/Blog/issues/94)
+7. [JavaScript 深入系列之实现 AJAX，使用 Promise 封装 AJAX 请求](https://github.com/yuanyuanbyte/Blog/issues/108)
+8. [JavaScript 深入系列之 call、apply 和 bind 方法的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/109)
+9. [JavaScript 深入系列之 new 操作符的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/110)
+10. [JavaScript 深入系列之继承的五种实现方式](https://github.com/yuanyuanbyte/Blog/issues/111)
+11. [JavaScript 深入系列之深拷贝的实现](https://github.com/yuanyuanbyte/Blog/issues/112)
+12. [JavaScript 深入系列之 instanceof 操作符的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/113)
+13. [JavaScript 深入系列之 Object.create 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/114)
+14. [JavaScript 深入系列之防抖函数从基础到进阶版的实现](https://github.com/yuanyuanbyte/Blog/issues/116)
+15. [JavaScript 深入系列之防抖函数从基础到进阶版的实现](https://github.com/yuanyuanbyte/Blog/issues/116)
 
 ## JavaScript 专题系列
 1. [JavaScript 专题系列之 ES6 新特性 Promise](https://github.com/yuanyuanbyte/Blog/issues/102)
