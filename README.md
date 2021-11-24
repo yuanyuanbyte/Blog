@@ -30,7 +30,7 @@
 12. [JavaScript 深入系列之 instanceof 操作符的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/113)
 13. [JavaScript 深入系列之 Object.create 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/114)
 14. [JavaScript 深入系列之防抖函数从基础到进阶版的实现](https://github.com/yuanyuanbyte/Blog/issues/116)
-15. [JavaScript 深入系列之防抖函数从基础到进阶版的实现](https://github.com/yuanyuanbyte/Blog/issues/116)
+15. [JavaScript 深入系列之节流函数的两种实现方式](https://github.com/yuanyuanbyte/Blog/issues/117)
 
 ## JavaScript 专题系列
 1. [JavaScript 专题系列之 ES6 新特性 Promise](https://github.com/yuanyuanbyte/Blog/issues/102)
