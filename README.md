@@ -18,6 +18,12 @@
 ## JavaScript 深入系列
 
 ## JavaScript 专题系列
+1. [JavaScript 专题系列之 ES6 新特性 Promise](https://github.com/yuanyuanbyte/Blog/issues/102)
+2. [JavaScript 专题系列之 ES6 新特性 Class 类](https://github.com/yuanyuanbyte/Blog/issues/103)
+3. [JavaScript 专题系列之 Fetch](https://github.com/yuanyuanbyte/Blog/issues/105)
+4. [JavaScript 专题系列之 Ajax、Axios 与 Fetch 的对比](https://github.com/yuanyuanbyte/Blog/issues/106)
+5. [JavaScript 专题系列之 Axios 拦截器的配置与使用](https://github.com/yuanyuanbyte/Blog/issues/107)
+6. [JavaScript 专题系列之正则表达式](https://github.com/yuanyuanbyte/Blog/issues/101)
 
 ## JavaScript 基础系列
 1. [JavaScript 基础系列之 JS 的数据类型有哪些](https://github.com/yuanyuanbyte/Blog/issues/67)
