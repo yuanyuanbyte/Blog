@@ -38,19 +38,20 @@
 10. [JavaScript 基础系列之 let、const 以及 var 的区别](https://github.com/yuanyuanbyte/Blog/issues/76)
 11. [JavaScript 基础系列之理解变量提升和暂时性死区](https://github.com/yuanyuanbyte/Blog/issues/77)
 12. [JavaScript 基础系列之 this 指向问题](https://github.com/yuanyuanbyte/Blog/issues/99)
-13. [JavaScript 基础系列之 for of，for in，forEach 和 map 的区别](https://github.com/yuanyuanbyte/Blog/issues/100)
-14. [JavaScript 基础系列之数组原生方法梳理](https://github.com/yuanyuanbyte/Blog/issues/98)
-15. [JavaScript 基础系列之分析 0.1+0.2 !== 0.3](https://github.com/yuanyuanbyte/Blog/issues/78)
-16. [JavaScript 基础系列之对严格模式 "use strict" 的理解](https://github.com/yuanyuanbyte/Blog/issues/79)
-17. [JavaScript 基础系列之常见的 DOM 操作](https://github.com/yuanyuanbyte/Blog/issues/80)
-18. [JavaScript 基础系列之对 JSON 的理解](https://github.com/yuanyuanbyte/Blog/issues/81)
-19. [JavaScript 基础系列之箭头函数的this指向](https://github.com/yuanyuanbyte/Blog/issues/82)
-20. [JavaScript 基础系列之箭头函数与普通函数的区别](https://github.com/yuanyuanbyte/Blog/issues/83)
-21. [JavaScript 基础系列之对象属性简写](https://github.com/yuanyuanbyte/Blog/issues/84)
-22. [JavaScript 基础系列之分析 const 对象的属性是否可以修改](https://github.com/yuanyuanbyte/Blog/issues/85)
-23. [JavaScript 基础系列之理解函数的 arguments 参数为什么是类数组而不是数组，如何遍历类数组](https://github.com/yuanyuanbyte/Blog/issues/86)
-24. [JavaScript 基础系列之分析 setTimeout 倒计时为什么会出现误差](https://github.com/yuanyuanbyte/Blog/issues/87)
-25. [JavaScript 基础系列之认识 bable](https://github.com/yuanyuanbyte/Blog/issues/88)
+13. [JavaScript 基础系列之 call、apply 和 bind 方法的用法、区别和使用场景](https://github.com/yuanyuanbyte/Blog/issues/115)
+14. [JavaScript 基础系列之 for of，for in，forEach 和 map 的区别](https://github.com/yuanyuanbyte/Blog/issues/100)
+15. [JavaScript 基础系列之数组原生方法梳理](https://github.com/yuanyuanbyte/Blog/issues/98)
+16. [JavaScript 基础系列之分析 0.1+0.2 !== 0.3](https://github.com/yuanyuanbyte/Blog/issues/78)
+17. [JavaScript 基础系列之对严格模式 "use strict" 的理解](https://github.com/yuanyuanbyte/Blog/issues/79)
+18. [JavaScript 基础系列之常见的 DOM 操作](https://github.com/yuanyuanbyte/Blog/issues/80)
+19. [JavaScript 基础系列之对 JSON 的理解](https://github.com/yuanyuanbyte/Blog/issues/81)
+20. [JavaScript 基础系列之箭头函数的this指向](https://github.com/yuanyuanbyte/Blog/issues/82)
+21. [JavaScript 基础系列之箭头函数与普通函数的区别](https://github.com/yuanyuanbyte/Blog/issues/83)
+22. [JavaScript 基础系列之对象属性简写](https://github.com/yuanyuanbyte/Blog/issues/84)
+23. [JavaScript 基础系列之分析 const 对象的属性是否可以修改](https://github.com/yuanyuanbyte/Blog/issues/85)
+24. [JavaScript 基础系列之理解函数的 arguments 参数为什么是类数组而不是数组，如何遍历类数组](https://github.com/yuanyuanbyte/Blog/issues/86)
+25. [JavaScript 基础系列之分析 setTimeout 倒计时为什么会出现误差](https://github.com/yuanyuanbyte/Blog/issues/87)
+26. [JavaScript 基础系列之认识 bable](https://github.com/yuanyuanbyte/Blog/issues/88)
 
 ## Webpack 系列
 1. [Webpack系列之简介与五个核心概念](https://github.com/yuanyuanbyte/Blog/issues/34)
@@ -93,8 +94,6 @@
 19. [Vue系列之应该在哪个生命周期内发起异步请求](https://github.com/yuanyuanbyte/Blog/issues/58)
 20. [Vue系列之父组件可以监听到子组件的生命周期吗](https://github.com/yuanyuanbyte/Blog/issues/59)
 21. [Vue系列之计算属性缓存和表达式调用方法的区别](https://github.com/yuanyuanbyte/Blog/issues/65)
-
-
 
 ## 性能优化与网络安全系列
 
