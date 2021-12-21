@@ -32,8 +32,8 @@
 14. [JavaScript 深入系列之防抖函数从基础到进阶版的实现](https://github.com/yuanyuanbyte/Blog/issues/116)
 15. [JavaScript 深入系列之节流函数的两种实现方式](https://github.com/yuanyuanbyte/Blog/issues/117)
 16. [JavaScript 深入系列之 Promise 核心原理的模拟实现，通过 Promises/A+ 官方872个测试用例](https://github.com/yuanyuanbyte/Blog/issues/125)
-17. [JavaScript 深入系列之 Promise 实例方法 catch 和 finally 的模拟实现]()
-18. [JavaScript 深入系列之 Promise 静态方法 resolve、reject、all、allSettled、any 和 race 的模拟实现]()
+17. [JavaScript 深入系列之 Promise 实例方法 catch 和 finally 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/126)
+18. [JavaScript 深入系列之 Promise 静态方法 resolve、reject、all、allSettled、any 和 race 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/126)
 
 ## JavaScript 专题系列
 1. [JavaScript 专题系列之 ES6 新特性 Promise](https://github.com/yuanyuanbyte/Blog/issues/102)
