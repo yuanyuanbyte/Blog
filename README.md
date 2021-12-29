@@ -11,9 +11,9 @@
 
 ## 关于 Issues 图片加载失败的问题
 如果issue里的文章图片加载不出来，可以访问 **我的其他平台**：
-- https://yuanyuan.blog.csdn.net
-- [CSDN博客(全集)](https://yuanyuan.blog.csdn.net/) 
 - [掘金博客(精华)](https://juejin.cn/user/1468603266772264/posts)
+- [CSDN博客(全集)](https://yuanyuan.blog.csdn.net/) 
+- https://yuanyuan.blog.csdn.net
 
 ## JavaScript 深入系列
 1. [JavaScript 深入系列之从原型到原型链](https://github.com/yuanyuanbyte/Blog/issues/89)
