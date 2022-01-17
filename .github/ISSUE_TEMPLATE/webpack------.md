@@ -36,3 +36,5 @@ assignees: yuanyuanbyte
 各系列文章汇总：[https://github.com/yuanyuanbyte/Blog](https://github.com/yuanyuanbyte/Blog)，内有优质前端资料，觉得不错点个star。
 
 我是圆圆，专注于打造一系列能够帮助前端工程师提高的优质文章，希望我的文章能对你的学习成长有所帮助，一起加油！
+
+![weixin](https://user-images.githubusercontent.com/93993961/146769274-32d8edc6-1ede-49bc-8014-e2680fbb996a.png)
