@@ -165,6 +165,9 @@
 3. [算法入门系列之取数组的最大值（ES5、ES6）, 详解 Math.max() 和 reduce() API](https://github.com/yuanyuanbyte/Blog/issues/96)
 4. 该系列正在努力中...
 
+## 彩蛋
+1. [中文文案排版指北]()
+
 ## 关于订阅
 如果喜欢或者有所启发，欢迎 star，对作者也是一种鼓励。
 
