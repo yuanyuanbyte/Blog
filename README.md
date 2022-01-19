@@ -39,10 +39,11 @@
 ## JavaScript 专题系列
 1. [JavaScript 专题系列之 ES6 新特性 Promise](https://github.com/yuanyuanbyte/Blog/issues/102)
 2. [JavaScript 专题系列之 ES6 新特性 Class 类](https://github.com/yuanyuanbyte/Blog/issues/103)
-3. [JavaScript 专题系列之 Fetch](https://github.com/yuanyuanbyte/Blog/issues/105)
-4. [JavaScript 专题系列之 Ajax、Axios 与 Fetch 的对比](https://github.com/yuanyuanbyte/Blog/issues/106)
-5. [JavaScript 专题系列之 Axios 拦截器的配置与使用](https://github.com/yuanyuanbyte/Blog/issues/107)
-6. [JavaScript 专题系列之正则表达式](https://github.com/yuanyuanbyte/Blog/issues/101)
+3. [JavaScript 专题系列之 ES8 新特性 async/await](https://github.com/yuanyuanbyte/Blog/issues/130)
+4. [JavaScript 专题系列之 Fetch](https://github.com/yuanyuanbyte/Blog/issues/105)
+5. [JavaScript 专题系列之 Ajax、Axios 与 Fetch 的对比](https://github.com/yuanyuanbyte/Blog/issues/106)
+6. [JavaScript 专题系列之 Axios 拦截器的配置与使用](https://github.com/yuanyuanbyte/Blog/issues/107)
+7. [JavaScript 专题系列之正则表达式](https://github.com/yuanyuanbyte/Blog/issues/101)
 
 ## 网络系列
 1. [网络系列之 HTTP 协议](https://github.com/yuanyuanbyte/Blog/issues/118)
