@@ -21,20 +21,24 @@
 3. [JavaScript 深入系列之闭包的作用、使用场景以及性能问题](https://github.com/yuanyuanbyte/Blog/issues/91)
 4. [JavaScript 深入系列之宏任务、微任务和事件循环 Event Loop](https://github.com/yuanyuanbyte/Blog/issues/92)
 5. [JavaScript 深入系列之 DOM 事件响应机制](https://github.com/yuanyuanbyte/Blog/issues/93)
-6. [JavaScript 深入系列之数据类型检测](https://github.com/yuanyuanbyte/Blog/issues/94)
-7. [JavaScript 深入系列之实现 AJAX，使用 Promise 封装 AJAX 请求](https://github.com/yuanyuanbyte/Blog/issues/108)
-8. [JavaScript 深入系列之 call、apply 和 bind 方法的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/109)
-9. [JavaScript 深入系列之 new 操作符的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/110)
-10. [JavaScript 深入系列之继承的五种实现方式](https://github.com/yuanyuanbyte/Blog/issues/111)
-11. [JavaScript 深入系列之深拷贝的实现](https://github.com/yuanyuanbyte/Blog/issues/112)
-12. [JavaScript 深入系列之发布-订阅者模式的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/127)
-13. [JavaScript 深入系列之 instanceof 操作符的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/113)
-14. [JavaScript 深入系列之 Object.create 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/114)
+6. [JavaScript 深入系列之事件委托（事件代理）](https://github.com/yuanyuanbyte/Blog/issues/131)
+7. [JavaScript 深入系列之数据类型检测](https://github.com/yuanyuanbyte/Blog/issues/94)
+8. [JavaScript 深入系列之实现 AJAX，使用 Promise 封装 AJAX 请求](https://github.com/yuanyuanbyte/Blog/issues/108)
+9. [JavaScript 深入系列之 call、apply 和 bind 方法的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/109)
+10. [JavaScript 深入系列之 new 操作符的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/110)
+11. [JavaScript 深入系列之发布-订阅者模式的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/127)
+12. [JavaScript 深入系列之 instanceof 操作符的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/113)
+13. [JavaScript 深入系列之 Object.create 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/114)
+14. [JavaScript 深入系列之深拷贝的实现](https://github.com/yuanyuanbyte/Blog/issues/112)
 15. [JavaScript 深入系列之防抖函数从基础到进阶版的实现](https://github.com/yuanyuanbyte/Blog/issues/116)
 16. [JavaScript 深入系列之节流函数的两种实现方式](https://github.com/yuanyuanbyte/Blog/issues/117)
-17. [JavaScript 深入系列之 Promise 核心原理的模拟实现，通过 Promises/A+ 官方872个测试用例](https://github.com/yuanyuanbyte/Blog/issues/125)
-18. [JavaScript 深入系列之 Promise 实例方法 catch 和 finally 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/126)
-19. [JavaScript 深入系列之 Promise 静态方法 resolve、reject、all、allSettled、any 和 race 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/126)
+17. [JavaScript 深入系列之继承的五种实现方式](https://github.com/yuanyuanbyte/Blog/issues/111)
+18. [JavaScript 深入系列之前端模块化详解：CommonJS、AMD、CMD、ES6](https://github.com/yuanyuanbyte/Blog/issues/134)
+19. [JavaScript 深入系列之异步编程的 5 种解决方案](https://github.com/yuanyuanbyte/Blog/issues/132)
+20. [JavaScript 深入系列之内存泄漏与垃圾回收机制](https://github.com/yuanyuanbyte/Blog/issues/135)
+21. [JavaScript 深入系列之 Promise 核心原理的模拟实现，通过 Promises/A+ 官方872个测试用例](https://github.com/yuanyuanbyte/Blog/issues/125)
+22. [JavaScript 深入系列之 Promise 实例方法 catch 和 finally 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/126)
+23. [JavaScript 深入系列之 Promise 静态方法 resolve、reject、all、allSettled、any 和 race 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/126)
 
 ## JavaScript 专题系列
 1. [JavaScript 专题系列之 ES6 新特性 Promise](https://github.com/yuanyuanbyte/Blog/issues/102)
@@ -49,9 +53,11 @@
 1. [网络系列之 HTTP 协议](https://github.com/yuanyuanbyte/Blog/issues/118)
 2. [网络系列之 HTTP/1.0、HTTP/1.1、HPPT/2.0 和 HTTP/3.0 版本的对比](https://github.com/yuanyuanbyte/Blog/issues/123)
 3. [网络系列之 TCP 和 UDP 的特点、区别和使用场景](https://github.com/yuanyuanbyte/Blog/issues/121)
-4. [网络系列之分析 304 状态码过程，图解 HTTP 强缓存和协商缓存](https://github.com/yuanyuanbyte/Blog/issues/119)
-5. [网络系列之从 URL 输入到页面展现发生了什么，详解 TCP 三次握手和四次挥手](https://github.com/yuanyuanbyte/Blog/issues/120)
-6. [网络系列之 HTTPS 工作原理，理解 HTTPS 加密、解密、验证及数据传输过程](https://github.com/yuanyuanbyte/Blog/issues/122)
+4. [网络系列之 HTTPS 工作原理，理解 HTTPS 加密、解密、验证及数据传输过程](https://github.com/yuanyuanbyte/Blog/issues/122)
+
+## 浏览器系列
+1. [浏览器系列之从 URL 输入到页面展现发生了什么，详解 TCP 三次握手和四次挥手](https://github.com/yuanyuanbyte/Blog/issues/120)
+2. [浏览器系列之分析 304 状态码过程，图解 HTTP 强缓存和协商缓存](https://github.com/yuanyuanbyte/Blog/issues/119)
 
 ## Webpack 系列
 1. [Webpack系列之简介与五个核心概念](https://github.com/yuanyuanbyte/Blog/issues/34)
@@ -66,9 +72,6 @@
 10. [Webpack性能优化系列之懒加载和预加载](https://github.com/yuanyuanbyte/Blog/issues/43)
 11. [Webpack性能优化系列之 PWA (使用渐进式网络应用程序为我们的项目添加离线体验)](https://github.com/yuanyuanbyte/Blog/issues/44)
 12. [Webpack性能优化系列之多进程打包 (极大的提升项目打包构建速度)](https://github.com/yuanyuanbyte/Blog/issues/45)
-
-## 浏览器系列
-- 正在努力写作中
 
 ## Vue 系列
 1. [Vue系列之对 vue 的理解](https://github.com/yuanyuanbyte/Blog/issues/46)
@@ -93,7 +96,8 @@
 20. [Vue系列之父组件可以监听到子组件的生命周期吗](https://github.com/yuanyuanbyte/Blog/issues/59)
 21. [Vue系列之计算属性缓存和表达式调用方法的区别](https://github.com/yuanyuanbyte/Blog/issues/65)
 
-## 性能优化与网络安全系列
+## 网络安全系列
+1. [网络安全系列之前端常见的 Web 安全攻防解析](https://github.com/yuanyuanbyte/Blog/issues/133)
 
 ## JavaScript 基础系列
 1. [JavaScript 基础系列之 JS 的数据类型有哪些](https://github.com/yuanyuanbyte/Blog/issues/67)
