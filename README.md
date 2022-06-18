@@ -166,12 +166,6 @@
 22. [CSS系列之 png、jpg、gif 和 webp 图片格式的理解](https://github.com/yuanyuanbyte/Blog/issues/32)
 23. [CSS系列之页面导入样式时，使用link和@import的区别](https://github.com/yuanyuanbyte/Blog/issues/13)
 
-## 算法入门系列
-1. [算法入门系列之 2sum](https://github.com/yuanyuanbyte/Blog/issues/95)
-2. [算法入门系列之不借助临时变量进行两个数的交换](https://github.com/yuanyuanbyte/Blog/issues/97)
-3. [算法入门系列之取数组的最大值（ES5、ES6）, 详解 Math.max() 和 reduce() API](https://github.com/yuanyuanbyte/Blog/issues/96)
-4. 该系列正在努力中...
-
 ## 彩蛋
 1. [中文文案排版指北](https://github.com/yuanyuanbyte/Blog/issues/128)
 
