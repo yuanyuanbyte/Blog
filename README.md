@@ -127,8 +127,9 @@
 23. [JavaScript 基础系列之分析 const 对象的属性是否可以修改](https://github.com/yuanyuanbyte/Blog/issues/85)
 24. [JavaScript 基础系列之理解函数的 arguments 参数为什么是类数组而不是数组，如何遍历类数组](https://github.com/yuanyuanbyte/Blog/issues/86)
 25. [JavaScript 基础系列之分析 setTimeout 倒计时为什么会出现误差](https://github.com/yuanyuanbyte/Blog/issues/87)
-26. [JavaScript 基础系列之认识 bable](https://github.com/yuanyuanbyte/Blog/issues/88)
-27. [JavaScript 基础系列之 ECMAScript 的发展历史及各版本名称介绍](https://github.com/yuanyuanbyte/Blog/issues/129)
+26. [JavaScript 基础系列之 eval() 方法](https://github.com/yuanyuanbyte/Blog/issues/137)
+27. [JavaScript 基础系列之认识 bable](https://github.com/yuanyuanbyte/Blog/issues/88)
+28. [JavaScript 基础系列之 ECMAScript 的发展历史及各版本名称介绍](https://github.com/yuanyuanbyte/Blog/issues/129)
 
 ## HTML 应知应会系列
 1. [HTML系列之 DOCTYPE 的作用](https://github.com/yuanyuanbyte/Blog/issues/1)
