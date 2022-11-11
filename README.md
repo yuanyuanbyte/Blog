@@ -41,16 +41,6 @@
 23. [JavaScript 深入系列之 Promise 实例方法 catch 和 finally 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/126)
 24. [JavaScript 深入系列之 Promise 静态方法 resolve、reject、all、allSettled、any 和 race 的模拟实现](https://github.com/yuanyuanbyte/Blog/issues/126)
 
-## JavaScript 专题系列
-1. [JavaScript 专题系列之 ES6 新特性 Promise](https://github.com/yuanyuanbyte/Blog/issues/102)
-2. [JavaScript 专题系列之 ES6 新特性 Class 类](https://github.com/yuanyuanbyte/Blog/issues/103)
-3. [JavaScript 专题系列之 ES8 新特性 async/await](https://github.com/yuanyuanbyte/Blog/issues/130)
-4. [JavaScript 专题系列之 Axios](https://github.com/yuanyuanbyte/Blog/issues/104)
-5. [JavaScript 专题系列之 Fetch](https://github.com/yuanyuanbyte/Blog/issues/105)
-6. [JavaScript 专题系列之 Ajax、Axios 与 Fetch 的对比](https://github.com/yuanyuanbyte/Blog/issues/106)
-7. [JavaScript 专题系列之 Axios 拦截器的配置与使用](https://github.com/yuanyuanbyte/Blog/issues/107)
-8. [JavaScript 专题系列之正则表达式](https://github.com/yuanyuanbyte/Blog/issues/101)
-
 ## 网络系列
 1. [网络系列之 HTTP 协议](https://github.com/yuanyuanbyte/Blog/issues/118)
 2. [网络系列之 HTTP/1.0、HTTP/1.1、HPPT/2.0 和 HTTP/3.0 版本的对比](https://github.com/yuanyuanbyte/Blog/issues/123)
@@ -60,6 +50,16 @@
 ## 浏览器系列
 1. [浏览器系列之从 URL 输入到页面展现发生了什么，详解 TCP 三次握手和四次挥手](https://github.com/yuanyuanbyte/Blog/issues/120)
 2. [浏览器系列之分析 304 状态码过程，图解 HTTP 强缓存和协商缓存](https://github.com/yuanyuanbyte/Blog/issues/119)
+
+## JavaScript 专题系列
+1. [JavaScript 专题系列之 ES6 新特性 Promise](https://github.com/yuanyuanbyte/Blog/issues/102)
+2. [JavaScript 专题系列之 ES6 新特性 Class 类](https://github.com/yuanyuanbyte/Blog/issues/103)
+3. [JavaScript 专题系列之 ES8 新特性 async/await](https://github.com/yuanyuanbyte/Blog/issues/130)
+4. [JavaScript 专题系列之 Axios](https://github.com/yuanyuanbyte/Blog/issues/104)
+5. [JavaScript 专题系列之 Fetch](https://github.com/yuanyuanbyte/Blog/issues/105)
+6. [JavaScript 专题系列之 Ajax、Axios 与 Fetch 的对比](https://github.com/yuanyuanbyte/Blog/issues/106)
+7. [JavaScript 专题系列之 Axios 拦截器的配置与使用](https://github.com/yuanyuanbyte/Blog/issues/107)
+8. [JavaScript 专题系列之正则表达式](https://github.com/yuanyuanbyte/Blog/issues/101)
 
 ## Webpack 系列
 1. [Webpack系列之简介与五个核心概念](https://github.com/yuanyuanbyte/Blog/issues/34)
