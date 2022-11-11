@@ -139,7 +139,7 @@
 5. [HTML系列之什么是 HTML5？HTML5 和 HTML 的区别](https://github.com/yuanyuanbyte/Blog/issues/5)
 6. [HTML系列之常用的 meta 标签](https://github.com/yuanyuanbyte/Blog/issues/6)
 7. [HTML系列之 src 和  href 的区别](https://github.com/yuanyuanbyte/Blog/issues/7)
-8. [HTML系列之 img 的 srcset 的作用 (追问)](https://github.com/yuanyuanbyte/Blog/issues/8)
+8. [HTML系列之 img 的 srcset 的作用](https://github.com/yuanyuanbyte/Blog/issues/8)
 9. [HTML系列之 script 标签中 defer 和 async 的区别](https://github.com/yuanyuanbyte/Blog/issues/9)
 10. [HTML系列之前端存储](https://github.com/yuanyuanbyte/Blog/issues/10)
 
