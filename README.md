@@ -140,7 +140,7 @@
 6. [HTML系列之常用的 meta 标签](https://github.com/yuanyuanbyte/Blog/issues/6)
 7. [HTML系列之 src 和  href 的区别](https://github.com/yuanyuanbyte/Blog/issues/7)
 8. [HTML系列之 img 的 srcset 的作用 (追问)](https://github.com/yuanyuanbyte/Blog/issues/8)
-9. [HTML系列之 script 标签中 defer和async的区别](https://github.com/yuanyuanbyte/Blog/issues/9)
+9. [HTML系列之 script 标签中 defer 和 async 的区别](https://github.com/yuanyuanbyte/Blog/issues/9)
 10. [HTML系列之前端存储](https://github.com/yuanyuanbyte/Blog/issues/10)
 
 ## CSS 应知应会系列
@@ -166,7 +166,7 @@
 20. [CSS系列之为什么要初始化 CSS 样式](https://github.com/yuanyuanbyte/Blog/issues/30)
 21. [CSS系列之 display:none 与 visibility：hidden 的区别](https://github.com/yuanyuanbyte/Blog/issues/31)
 22. [CSS系列之 png、jpg、gif 和 webp 图片格式的理解](https://github.com/yuanyuanbyte/Blog/issues/32)
-23. [CSS系列之页面导入样式时，使用link和@import的区别](https://github.com/yuanyuanbyte/Blog/issues/13)
+23. [CSS系列之页面导入样式时，使用 link 和 @import 的区别](https://github.com/yuanyuanbyte/Blog/issues/13)
 
 ## 彩蛋
 1. [中文文案排版指北](https://github.com/yuanyuanbyte/Blog/issues/128)
