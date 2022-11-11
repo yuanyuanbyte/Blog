@@ -121,7 +121,7 @@
 17. [JavaScript 基础系列之对严格模式 "use strict" 的理解](https://github.com/yuanyuanbyte/Blog/issues/79)
 18. [JavaScript 基础系列之常见的 DOM 操作](https://github.com/yuanyuanbyte/Blog/issues/80)
 19. [JavaScript 基础系列之对 JSON 的理解](https://github.com/yuanyuanbyte/Blog/issues/81)
-20. [JavaScript 基础系列之箭头函数的this指向](https://github.com/yuanyuanbyte/Blog/issues/82)
+20. [JavaScript 基础系列之箭头函数的 this 指向](https://github.com/yuanyuanbyte/Blog/issues/82)
 21. [JavaScript 基础系列之箭头函数与普通函数的区别](https://github.com/yuanyuanbyte/Blog/issues/83)
 22. [JavaScript 基础系列之对象属性简写](https://github.com/yuanyuanbyte/Blog/issues/84)
 23. [JavaScript 基础系列之分析 const 对象的属性是否可以修改](https://github.com/yuanyuanbyte/Blog/issues/85)
