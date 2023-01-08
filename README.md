@@ -7,7 +7,6 @@
 > 使用了 GitHub 的 issues 区域来作为博文发布区。
 
 ## 我的其他平台
-如果文章图片加载不出来，可以访问 **我的其他平台**：
 - [掘金博客(精华)](https://juejin.cn/user/1468603266772264/posts?sort=popular)
 - [CSDN博客(全集)](https://yuanyuan.blog.csdn.net/) 
 - https://yuanyuan.blog.csdn.net
